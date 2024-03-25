@@ -19,7 +19,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>vai ser uma imagem aqui </h1>
+    <h1><imghttps://www.youbilingue.com.br/blog/wp-content/uploads/2019/06/capa-blog-diferenciar-escola-min.png<img </h1>
 
     
 </body> <section class=”escola”>
